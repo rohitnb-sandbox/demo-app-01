@@ -1,0 +1,14 @@
+name: Rogue Deploy
+
+on:
+  workflow_dispatch:
+
+jobs:
+  prod-deploy:
+    runs-on: ubuntu-latest
+    environment: prod
+    steps:
+    - name: Rogue step
+      run: |
+        "Aha! by passed"
+    

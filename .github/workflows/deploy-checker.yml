@@ -1,0 +1,12 @@
+name: Deploy Checks
+
+on:
+  deployment:
+
+permissions:
+  actions: write
+  
+jobs:
+  run-checker:
+    uses: RohitDemo/compliance-rules/.github/workflows/deployment-checker.yml@main
+      
