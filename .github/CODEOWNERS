@@ -1,2 +1,2 @@
-.github/workflows/deploy-checker.yml @rohitnb-sandbox/teams/devops-pipeline-engineering
-.github/CODEOWNERS @rohitnb-sandbox/teams/devops-pipeline-engineering
+.github/workflows/deploy-checker.yml @rohitnb-sandbox/devops-pipeline-engineering
+.github/CODEOWNERS @rohitnb-sandbox/devops-pipeline-engineering
