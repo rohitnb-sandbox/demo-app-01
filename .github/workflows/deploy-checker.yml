@@ -8,5 +8,5 @@ permissions:
   
 jobs:
   run-checker:
-    uses: RohitDemo/compliance-rules/.github/workflows/deployment-checker.yml@main
+    uses: rohitnb-sandbox/compliance-workflows/.github/workflows/deployment-checker.yml@main
       
