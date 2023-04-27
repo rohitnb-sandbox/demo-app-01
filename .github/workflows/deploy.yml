@@ -5,4 +5,4 @@ on:
 
 jobs:
   prod-deploy:
-    uses: RohitDemo/compliance-rules/.github/workflows/master-deploy.yml@main
+    uses: rohitnb-sandbox/compliance-workflows/.github/workflows/master-deploy.yml@main
